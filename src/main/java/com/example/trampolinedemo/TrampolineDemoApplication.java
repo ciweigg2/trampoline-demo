@@ -18,7 +18,7 @@ public class TrampolineDemoApplication {
     @RequestMapping("/trampoline")
     public String walle(){
         log.info("测试日志的");
-        return "build trampoline success323";
+        return "build trampoline success32333";
     }
 
 }
